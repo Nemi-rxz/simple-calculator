@@ -1,6 +1,7 @@
 ## Calculator App
 
-A simple calculator application written in Java.  
+A simple calculator application written in Java.
+Code written in eclipse with a Jframe GUI
 Supports basic operations like addition, subtraction, multiplication, and division.
 
 ## How to Run
